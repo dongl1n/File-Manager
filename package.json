@@ -1,0 +1,15 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start" :  "echo Welcome to the File Manager, %npm_config_username% && node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
